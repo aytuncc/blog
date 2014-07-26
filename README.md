@@ -1,3 +1,3 @@
 # Learning Rails 
 
-This is Aytunc Ozturk. 
+building my own dud blog.
